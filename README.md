@@ -4,4 +4,4 @@
 at the University of Southern California. We are backed by [SparkSC](https://www.sparksc.org), the leading entrepreneurship
 organization on campus. <br>
 
-Read more at: https://www.1000pitches.sparksc.org!
+Read more at: <https://1000pitches.sparksc.org>!
